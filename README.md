@@ -3,6 +3,8 @@ Mää ny vähän testaa miten nää muutokset saa toimimaan.
 Testi rivi 3
 Ja neljäskin
 
+Toinen päivitystesti. Meniskö tällä kertaa mun omaan haaraan.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
